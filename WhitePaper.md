@@ -26,7 +26,7 @@ Daggers are mined in every mainblock. There are three periods of mining:
 
 | Stage 1 | Stage 2 | Stage 3 |
 | -- | -- | -- |
-| 2 years, Jan 5th, 2018 to Jan 5th, 2020 | 2 years, Jan 5th, 2020 to Jan 5th, 2022 | Each 4 years |
+| 2 年, 从2018年1月5日到2020年1月5日 | 2 年，从2020年1月5日到主块高度2^21=2097152 | 主块高度每2^21=2097152减半 |
 | 1024 XDAG each block | 128 XDAG each block | 64 * (1/2)^n XDAG each block |
 
 The maximum XDAG supply is approximately 1.412 billion.
